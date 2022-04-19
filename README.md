@@ -1,8 +1,6 @@
 # The Rainbow Customizer (09 June 2021)
 by ioio72 aka Tamio Patrick Honma
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
 ## Description
 
 You can adjust the size, the number of colors, angle and many other properties of the rainbow.
@@ -10,6 +8,31 @@ You can adjust the size, the number of colors, angle and many other properties o
 You can export different sets of parts, which allows you to decide whether to paint the rainbow or use filament colors.
 
 Have fun and enjoy the diverse colors of our world!
+
+![Rainbow Ottifant](Photos/20210610_013638.jpg)
+![Rainbow](Photos/20210610_013541.jpg)
+![Rainbow Cloud](Photos/20210610_013145.jpg)
+![Rainbow closup](Photos/20210610_013256.jpg)
+![Rainbow 2](Photos/20210610_012913.jpg)
+
+LGBT:<br />
+![LGBT rainbow](Photos/rainbow_lgbt.png)
+
+Mario Kart Live tunnel:<br />
+![Mario Kart Live Rainbow](Photos/mario_kart_tunnel.png)
+
+Angles:<br />
+![360° Rainbow](Photos/rainbow-360.png)
+![90° Rainbow without clouds](Photos/rainbow-90_no-cloud.png)
+
+Colors:<br />
+![Few colors Rainbow](Photos/rainbow_few-colors.png)
+![Many colors Rainbow](Photos/rainbow_many-colors.png)
+
+Shapes:<br />
+![Rainbow triangle shape](Photos/rainbow_triangle.png)
+![Rainbow rounded shape](Photos/rainbow_rounded.png)
+![Rainbow square shape](Photos/rainbow.png)
 
 **Possible Uses**
 
@@ -21,18 +44,16 @@ Have fun and enjoy the diverse colors of our world!
 
 ## Use OpenSCAD
 
-As the Thingiverse customizer has some issues, it's better to use OpenSCAD instead.
-
 1. **Download and install:** [OpenSCAD](http://openscad.org/) version 2021.01 or newer
 2. **Download:** The *.scad file of this model.
 3. **Start** OpenSCAD and **open** the *.scad file in it.
 4. **Open the customizer** via the menu "Window/Customizer"
 
-Now you can configure the model.
+Now you can configure the model and use the `F5` key to render the preview of your changes.
 
 ### Export your STL file
 
-If you're done with your labelling tag settings, you can export the STL file:
+If you're done with your model settings, you can export the STL file:
 
 1. Render the mesh by pressing the `F6` key.
 2. Wait until the rendering is finished. This might take some minutes.
@@ -40,10 +61,18 @@ If you're done with your labelling tag settings, you can export the STL file:
 
 ### Optionally save your configuration
 
-If you like to use your configuration as a template for further labelling tags, it's a good idea, to save your configuration:
+If you like to use your configuration as a template for further models, it's a good idea, to save your configuration:
 
 1. Click the `+` symbol in the customizer, which you find beside the configuration selector drop-down in the second line of the customizer.
 2. Give your configuration a name.
 
 Use the drop-down menu to access your saved configurations.
+
+## Post printing
+
+**Glue Rainbow to stand**
+
+I recommend to use superglue to attach the rainbow segments to the stand.
+
+If the bows don't fit into the holes, you can increase the stand attachment hole tolerance value
 
