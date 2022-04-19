@@ -1,0 +1,40 @@
+{
+    "parameterSets": {
+        "Mario Kart Live": {
+            "$fn": "100",
+            "angle": "180",
+            "bows": "7",
+            "depth": "300",
+            "diameter": "300",
+            "inner_diameter_percent": "70",
+            "number": "15",
+            "offset_percent": "20",
+            "shape": "reactangle",
+            "stand": "true",
+            "stand_attachment_hole_height": "4",
+            "stand_attachment_hole_tolerance": "0.2",
+            "stand_cloud": "false",
+            "stand_height": "100",
+            "stand_thickness": "4"
+        },
+        "LGBT": {
+            "$fn": "100",
+            "angle": "180",
+            "bows": "6",
+            "depth": "2.5",
+            "diameter": "100",
+            "inner_diameter_percent": "40",
+            "number": "15",
+            "offset_percent": "20",
+            "shape": "rectangle",
+            "stand": "true",
+            "stand_attachment_hole_height": "1.5",
+            "stand_attachment_hole_tolerance": "0.2",
+            "stand_cloud": "true",
+            "stand_height": "3",
+            "stand_thickness": "4"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": ""
+}
