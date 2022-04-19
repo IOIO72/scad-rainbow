@@ -16,23 +16,23 @@ Have fun and enjoy the diverse colors of our world!
 ![Rainbow 2](Photos/20210610_012913.jpg)
 
 LGBT:<br />
-![LGBT rainbow](Photos/rainbow_lgbt.png)
+![LGBT rainbow](rainbow_lgbt.png)
 
 Mario Kart Live tunnel:<br />
-![Mario Kart Live Rainbow](Photos/mario_kart_tunnel.png)
+![Mario Kart Live Rainbow](mario_kart_tunnel.png)
 
 Angles:<br />
-![360° Rainbow](Photos/rainbow-360.png)
-![90° Rainbow without clouds](Photos/rainbow-90_no-cloud.png)
+![360° Rainbow](rainbow-360.png)
+![90° Rainbow without clouds](rainbow-90_no-cloud.png)
 
 Colors:<br />
-![Few colors Rainbow](Photos/rainbow_few-colors.png)
-![Many colors Rainbow](Photos/rainbow_many-colors.png)
+![Few colors Rainbow](rainbow_few-colors.png)
+![Many colors Rainbow](rainbow_many-colors.png)
 
 Shapes:<br />
-![Rainbow triangle shape](Photos/rainbow_triangle.png)
-![Rainbow rounded shape](Photos/rainbow_rounded.png)
-![Rainbow square shape](Photos/rainbow.png)
+![Rainbow triangle shape](rainbow_triangle.png)
+![Rainbow rounded shape](rainbow_rounded.png)
+![Rainbow square shape](rainbow.png)
 
 **Possible Uses**
 
